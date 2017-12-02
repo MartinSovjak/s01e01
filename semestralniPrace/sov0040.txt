@@ -1,0 +1,15 @@
+Martin Sovják (SOV0040), Cvièení: C/03 èt 12:30 - Rezervace místností
+Zadání: V datovom súbore budú miestnosti popísané schémou:
+
+id,
+patro,
+cislo_mistnosti,
+kapacita sedadel,
+cena za den rezervace,
+
+a druhı súbor s dátami o rezervácii danıch miestností:
+
+id_miestnosti,
+den_rezervacie.
+
+Úkolom bude monos rezervácie miestnosti na zvolenı deò (ak u nieje obsadená). Vyhladanie vo¾nıch miestností na urèitı dátum, do urèitej ceny, prípadnì kapacity osob a samozrejme export najbliších rezervácií vybranej miestnosti do HTML súboru.

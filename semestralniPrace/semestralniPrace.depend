@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1510400369 source:c:\users\marti\desktop\väb\semestralniprace\solution\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<cmath>
+

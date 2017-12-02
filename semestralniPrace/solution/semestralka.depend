@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1512231250 source:c:\users\marti\desktop\väb\semestralniprace\solution\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+	<cmath>
+	<stdlib.h>
+	<ctype.h>
+
