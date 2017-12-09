@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1512231250 source:c:\users\marti\desktop\väb\semestralniprace\solution\main.cpp
+1512683243 source:c:\users\marti\desktop\väb\semestralniprace\solution\main.cpp
 	<iostream>
 	<string>
 	<sstream>
@@ -7,6 +7,7 @@
 	<stdio.h>
 	<conio.h>
 	<cmath>
+	<ctime>
 	<stdlib.h>
 	<ctype.h>
 
